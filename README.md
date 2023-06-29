@@ -59,7 +59,7 @@ My website design inspired by Behance.I makes more styling for better view and a
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://hsuwaddyhtat22.github.io/Microverse-first-capstone-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +157,7 @@ If you like this project, follow my Facebook Page and subscribe my You Tube Chan
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Microverse and my coding partners.
+- Credit to the author Cindy for inspire her web.Thanks for your design.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -49,10 +49,15 @@ a {
   background-color: #1d1d1d;
 }
 
-.close-button {
+.size {
+  width: 10px;
+  height: 5px;
+}
+
+#close-button {
   display: block;
-  margin-top: 0;
-  position: fixed;
+  position: absolute;
+  right: 20px;
 }
 
 .lower-nav {
@@ -268,19 +273,19 @@ a {
 .project {
   display: flex;
   flex-direction: column;
-  margin: 20px auto;
-  height: 150px;
-  width: 90%;
+  margin: 10px 15px;
+  height: 200px;
+  width: 550px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .project-1 {
-  background-image: url("images/Free\ Vector\ _\ Open\ air\ concert\ concept.jpeg");
+  background-image: url("images/video_image-liWyv0R73.jpeg");
 }
 
 .project-2 {
-  background-image: url("images/Poster\ for\ party\ with\ raised\ hands.jpeg");
+  background-image: url("images/video_image-2V3ol2MSZ.jpeg");
 }
 
 .about-mid {
@@ -361,7 +366,7 @@ a {
   justify-content: space-between;
   align-items: center;
   padding: 20px 20px;
-  background-color: #b5ccd4;
+  background-color: #f2fcff;
 }
 
 .footer img {
@@ -396,6 +401,11 @@ a {
 
 .logo-first {
   display: none;
+}
+
+.transparet {
+  color: black;
+  font-weight: bold;
 }
 
 @media (min-width: 768px) {
